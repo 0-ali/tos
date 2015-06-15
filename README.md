@@ -12,7 +12,8 @@
  **/
  
  Support All Langauges 
-
+Live Demo ; 
+http://xc0d3rz.gq/tos.php?text=Hello World&lang=en-US
 For Example 
 <?php
 error_reporting(1); // hide notice;
